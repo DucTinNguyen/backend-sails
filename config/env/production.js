@@ -263,7 +263,7 @@ module.exports = {
     *                                                                          *
     * > Replace "https://example.com" etc. with the URL(s) of your app.        *
     * > Be sure to use the right protocol!  ("http://" vs. "https://")         *
-    *                                                                          *
+    *                                                                            *
     ***************************************************************************/
     // onlyAllowOrigins: [
     //   'https://example.com',
@@ -354,8 +354,8 @@ module.exports = {
   * handled for you automatically.  If you are not sure if you need to set  *
   * this, just try deploying without setting it and see if it works.)       *
   *                                                                         *
-  ***************************************************************************/
-  port: 80,
+  // ***************************************************************************/
+  // port: 80,
 
 
 
